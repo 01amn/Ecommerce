@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: "/bite/",   // repository name
+  base: "/Ecommerce/",
   plugins: [
     react(),
     tailwindcss(),
